@@ -1,0 +1,25 @@
+{
+  "name": "meteor-node-aes-gcm",
+  "version": "0.1.7",
+  "description": "Meteor wrapper for the node-aes-gcm npm package",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/meteor/node-aes-gcm.git"
+  },
+  "keywords": [
+    "aes",
+    "gcm",
+    "encryption",
+    "meteor",
+    "wrapper"
+  ],
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/meteor/node-aes-gcm/issues"
+  },
+  "homepage": "https://github.com/meteor/node-aes-gcm#readme",
+  "dependencies": {
+    "node-aes-gcm": "0.1.7"
+  }
+}
